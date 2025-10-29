@@ -1,4 +1,4 @@
 # New project
 
 This project was created from local system.
-created by Anushka Mandal
+created by Anushka Mandal.
